@@ -28,16 +28,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3FF3D54B1BC81FA300599A37"
-               BuildableName = "AlamofireXMLRPCTests.xctest"
-               BlueprintName = "AlamofireXMLRPCTests"
-               ReferencedContainer = "container:AlamofireXMLRPC.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
